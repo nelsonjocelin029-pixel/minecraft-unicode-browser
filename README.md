@@ -1,4 +1,4 @@
-# Minecraft Unicode Browser
+mlll0lllli# Minecraft Unicode Browser
 
 A browser tool that let's you view all unicodes from Minecraft.
 
